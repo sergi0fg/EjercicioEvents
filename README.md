@@ -1,4 +1,4 @@
-# EjercicioEvents 6ª Convocatoria Julio
+# EjercicioEvents  Examen 6ª Convocatoria Julio
 
 Los eventos tienen los siguientes datos:
 * Título
